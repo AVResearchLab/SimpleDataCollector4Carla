@@ -1255,9 +1255,9 @@ def main():
         "-p",
         "--port",
         metavar="P",
-        default=8964,
+        default=2000,
         type=int,
-        help="TCP port to listen to (default: 8964)",
+        help="TCP port to listen to (default: 2000)",
     )
     argparser.add_argument(
         "--res",
