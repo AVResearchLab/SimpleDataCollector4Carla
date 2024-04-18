@@ -1,10 +1,11 @@
+#### Optimization Needed Based on Your Own Needs
 ##### Note: This script is only for an example and it is not correct for collecting data except for depth image!
 ## Utilities:
 # conda activate carla
 # pip install tensorflow==1.14
 # pip install protobuf==3.20.*
 # pip3 install -r ../../../../PythonAPI/carla/requirements.txt
-# export PYTHONPATH=/home/alex/Documents/MasterThesisProj/UMCarla913/PythonAPI/carla
+# export PYTHONPATH=/home/alex/Documents/xxxxxxx/UMCarla-VERSION.9.13/PythonAPI/carla
 # cd evaluation
 # python3 datacollector.py --sync -m AU -l
 
